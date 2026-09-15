@@ -1,0 +1,11 @@
+{
+  "slug": "timestamp-flex",
+  "name": "Timestamp Flex",
+  "kind": "proof",
+  "description": "Create a compact, independently verifiable bragging-rights timestamp payload.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
