@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "timestamp-flex"
+abstract: "Create a compact, independently verifiable bragging-rights timestamp payload."
+repository-code: "https://github.com/nirholas/timestamp-flex"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"

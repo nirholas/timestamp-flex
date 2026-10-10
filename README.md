@@ -1,5 +1,10 @@
 # Timestamp Flex
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/timestamp-flex?style=flat&logo=github)](https://github.com/nirholas/timestamp-flex/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/timestamp-flex?style=flat)](https://github.com/nirholas/timestamp-flex/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/timestamp-flex/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/timestamp-flex/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Create a compact, independently verifiable bragging-rights timestamp payload.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/timestamp-flex&type=Date)](https://www.star-history.com/#nirholas/timestamp-flex&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If timestamp-flex saves you time, **[star it on GitHub](https://github.com/nirholas/timestamp-flex)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=timestamp-flex%3A%20Create%20a%20compact%2C%20independently%20verifiable%20bragging-rights%20timestamp%20payload&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Ftimestamp-flex) · [Share on Bluesky](https://bsky.app/intent/compose?text=timestamp-flex%3A%20Create%20a%20compact%2C%20independently%20verifiable%20bragging-rights%20timestamp%20payload%20https%3A%2F%2Fgithub.com%2Fnirholas%2Ftimestamp-flex) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Ftimestamp-flex) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Ftimestamp-flex&t=timestamp-flex%3A%20Create%20a%20compact%2C%20independently%20verifiable%20bragging-rights%20timestamp%20payload) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Ftimestamp-flex&title=timestamp-flex%3A%20Create%20a%20compact%2C%20independently%20verifiable%20bragging-rights%20timestamp%20payload)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/timestamp-flex` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/timestamp-flex/issues) or [start a discussion](https://github.com/nirholas/timestamp-flex/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/timestamp-flex)](https://github.com/nirholas/timestamp-flex/graphs/contributors)
+
+<!-- /three.ws:growth -->
