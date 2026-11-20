@@ -8,7 +8,7 @@ Create a compact, independently verifiable bragging-rights timestamp payload.
 
 - Source: https://github.com/nirholas/timestamp-flex
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
